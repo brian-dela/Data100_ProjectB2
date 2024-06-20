@@ -1,0 +1,1 @@
+This is a project from the upper division data science course "Data 100" at UC Berkeley. The code and visualizations are contained within a Jupyter Notebook that can be viewed directly on GitHub without downloading. All relevant dataset(s) and files are included alongside the .ipynb Jupyter Notebook file.
